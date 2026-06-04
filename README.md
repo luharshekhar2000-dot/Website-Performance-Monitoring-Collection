@@ -34,3 +34,4 @@
  - https://www.bugsnag.com/
  - https://mmonit.com/monit/
  - https://www.debugbear.com/
+ - https://middleware.io/
